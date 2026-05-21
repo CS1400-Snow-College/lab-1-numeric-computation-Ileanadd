@@ -1,7 +1,7 @@
 ﻿// Lab 01
 // WorkWithIntegers();
 // OrderPrecedence();
-WorkWithDoubles();
+// WorkWithDoubles();
 
 void WorkWithIntegers()
 {
@@ -105,3 +105,9 @@ void WorkWithDoubles()
     gg = zz / xx;
     Console.WriteLine(gg);
 }
+
+//
+
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
