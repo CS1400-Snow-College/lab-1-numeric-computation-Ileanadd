@@ -71,5 +71,9 @@ double aa = 19;
 double bb = 23;
 double cc = 8;
 double dd = (aa + bb) / cc;
-Console.WriteLine(dd); 
+Console.WriteLine(dd);
+
+double max = double.MaxValue;
+double min = double.MinValue;
+Console.WriteLine($"The range of double is {min} to {max}");
 
