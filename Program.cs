@@ -1,12 +1,13 @@
 ﻿// Lab 01
 WorkWithIntegers();
 
-void WorkWithIntegers() {
+void WorkWithIntegers()
+{
     int a = 18;
     int b = 6;
     int c = a + b;
     Console.WriteLine(c);
-    
+
     // substraction
     c = a - b;
     Console.WriteLine(c);
@@ -19,3 +20,5 @@ void WorkWithIntegers() {
     c = a / b;
     Console.WriteLine(c);
 }
+
+//WorkWithIntegers ();
