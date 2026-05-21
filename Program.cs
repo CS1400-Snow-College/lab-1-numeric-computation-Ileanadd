@@ -50,4 +50,8 @@ void OrderPrecedence ()
     int ee = (aa + bb) % cc;
     Console.WriteLine($"quotient: {d}");
     Console.WriteLine($"remainder: {e}");
+
+    int max = int.MaxValue;
+    int min = int.MinValue;
+    Console.WriteLine($"The range of integers is {min} to {max}");
 }
