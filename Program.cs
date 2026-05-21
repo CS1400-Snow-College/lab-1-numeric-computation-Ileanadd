@@ -119,3 +119,9 @@ Console.WriteLine(a / b);
 decimal c = 1.0M;
 decimal d = 3.0M;
 Console.WriteLine(c / d);
+
+// Challenge
+
+double r = 2.50;
+double area = Math.PI * r * r;
+Console.WriteLine($"The area of the circle is: {area}");
