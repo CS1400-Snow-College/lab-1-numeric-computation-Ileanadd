@@ -1,6 +1,7 @@
 ﻿// Lab 01
 // WorkWithIntegers();
-// OrderPrecedence() ;
+// OrderPrecedence();
+WorkWithDoubles();
 
 void WorkWithIntegers()
 {
@@ -60,23 +61,47 @@ void OrderPrecedence ()
 }
 
 //
+void WorkWithDoubles()
+{
+    double a = 5;
+    double b = 4;
+    double c = 2;
+    double d = (a + b) / c;
+    Console.WriteLine(d);
 
-double a = 5;
-double b = 4;
-double c = 2;
-double d = (a + b) / c;
-Console.WriteLine(d);
+    double aa = 19;
+    double bb = 23;
+    double cc = 8;
+    double dd = (aa + bb) / cc;
+    Console.WriteLine(dd);
 
-double aa = 19;
-double bb = 23;
-double cc = 8;
-double dd = (aa + bb) / cc;
-Console.WriteLine(dd);
+    double max = double.MaxValue;
+    double min = double.MinValue;
+    Console.WriteLine($"The range of double is {min} to {max}");
 
-double max = double.MaxValue;
-double min = double.MinValue;
-Console.WriteLine($"The range of double is {min} to {max}");
+    double third = 1.0 / 3.0;
+    Console.WriteLine(third);
 
-double third = 1.0 / 3.0;
-Console.WriteLine(third);
+    // Challenge
 
+    double x = 205;
+    double y = 23;
+    double z = 17;
+    double g = (x - z) / y;
+    Console.WriteLine(g);
+
+    g = (y * z) / x;
+    Console.WriteLine(g);
+
+    double xx = .4;
+    double yy = 2.8;
+    double zz = 12.7;
+    double gg = (zz + xx) * yy;
+    Console.WriteLine(gg);
+
+    gg = xx * yy;
+    Console.WriteLine(gg);
+
+    gg = zz / xx;
+    Console.WriteLine(gg);
+}
