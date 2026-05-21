@@ -1,6 +1,6 @@
 ﻿// Lab 01
 // WorkWithIntegers();
-OrderPrecedence;
+OrderPrecedence() ;
 
 void WorkWithIntegers()
 {
@@ -42,4 +42,12 @@ void OrderPrecedence ()
     int g = 3;
     int h = (e + f) / g;
     Console.WriteLine(h);
+
+    int aa = 7;
+    int bb = 4;
+    int cc = 3;
+    int dd = (aa + bb) / cc;
+    int ee = (aa + bb) % cc;
+    Console.WriteLine($"quotient: {d}");
+    Console.WriteLine($"remainder: {e}");
 }
