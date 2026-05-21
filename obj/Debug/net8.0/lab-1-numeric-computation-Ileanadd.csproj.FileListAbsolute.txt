@@ -1,0 +1,15 @@
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/bin/Debug/net8.0/lab-1-numeric-computation-Ileanadd
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/bin/Debug/net8.0/lab-1-numeric-computation-Ileanadd.deps.json
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/bin/Debug/net8.0/lab-1-numeric-computation-Ileanadd.runtimeconfig.json
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/bin/Debug/net8.0/lab-1-numeric-computation-Ileanadd.dll
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/bin/Debug/net8.0/lab-1-numeric-computation-Ileanadd.pdb
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.AssemblyInfoInputs.cache
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.AssemblyInfo.cs
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.csproj.CoreCompileInputs.cache
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.sourcelink.json
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.dll
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/refint/lab-1-numeric-computation-Ileanadd.dll
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.pdb
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/lab-1-numeric-computation-Ileanadd.genruntimeconfig.cache
+/Users/ileanagonzalez/CSharpProjects/CS1400/my-code-dir/lab-1-numeric-computation-Ileanadd/obj/Debug/net8.0/ref/lab-1-numeric-computation-Ileanadd.dll
