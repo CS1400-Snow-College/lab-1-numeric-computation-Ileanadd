@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-Ileanadd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c13241fb2249b1f4850fdba9f87bd0372e7219dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cfb9128cd2e38732ce3f5d68ea0bab658fca7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-Ileanadd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-Ileanadd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

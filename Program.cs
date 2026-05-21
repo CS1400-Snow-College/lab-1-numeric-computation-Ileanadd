@@ -67,3 +67,9 @@ double c = 2;
 double d = (a + b) / c;
 Console.WriteLine(d);
 
+double aa = 19;
+double bb = 23;
+double cc = 8;
+double dd = (aa + bb) / cc;
+Console.WriteLine(dd); 
+
