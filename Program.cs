@@ -1,10 +1,14 @@
 ﻿// Lab 01
-// WorkWithIntegers();
-// OrderPrecedence();
-// WorkWithDoubles();
+WorkWithIntegers();
+OrderPrecedence();
+WorkWithDoubles();
+WorkWithDecimals();
 
+// Tutorial 1
 void WorkWithIntegers()
 {
+    Console.WriteLine("Explore integers math");
+
     int a = 18;
     int b = 6;
     int c = a + b;
@@ -23,9 +27,11 @@ void WorkWithIntegers()
     Console.WriteLine(c);
 }
 
-//
+// Tutorial 2
 void OrderPrecedence ()
 {
+    Console.WriteLine("Explore order of operations");
+
     int a = 5;
     int b = 4;
     int c = 2;
@@ -44,6 +50,9 @@ void OrderPrecedence ()
     int h = (e + f) / g;
     Console.WriteLine(h);
 
+    // Tutorial 3
+    Console.WriteLine("Explore integer precision and limits");
+
     int aa = 7;
     int bb = 4;
     int cc = 3;
@@ -60,9 +69,10 @@ void OrderPrecedence ()
     Console.WriteLine($"An example of overflow: {what}");
 }
 
-//
+// Tutorial 4
 void WorkWithDoubles()
 {
+    Console.WriteLine("Work with the double type");
     double a = 5;
     double b = 4;
     double c = 2;
@@ -83,6 +93,7 @@ void WorkWithDoubles()
     Console.WriteLine(third);
 
     // Challenge
+    Console.WriteLine("Challenge");
 
     double x = 205;
     double y = 23;
@@ -106,22 +117,27 @@ void WorkWithDoubles()
     Console.WriteLine(gg);
 }
 
-//
+// Tutorial 5
+void WorkWithDecimals()
+{
+    Console.WriteLine("Work with decimal types");
 
-decimal min = decimal.MinValue;
-decimal max = decimal.MaxValue;
-Console.WriteLine($"The range of the decimal type is {min} to {max}");
+    decimal min = decimal.MinValue;
+    decimal max = decimal.MaxValue;
+    Console.WriteLine($"The range of the decimal type is {min} to {max}");
 
-double a = 1.0;
-double b = 3.0;
-Console.WriteLine(a / b);
+    double a = 1.0;
+    double b = 3.0;
+    Console.WriteLine(a / b);
 
-decimal c = 1.0M;
-decimal d = 3.0M;
-Console.WriteLine(c / d);
+    decimal c = 1.0M;
+    decimal d = 3.0M;
+    Console.WriteLine(c / d);
 
-// Challenge
+    // Challenge
+    Console.WriteLine("Challenge");
 
-double r = 2.50;
-double area = Math.PI * r * r;
-Console.WriteLine($"The area of the circle is: {area}");
+    double r = 2.50;
+    double area = Math.PI * r * r;
+    Console.WriteLine($"The area of the circle is: {area}");
+}
