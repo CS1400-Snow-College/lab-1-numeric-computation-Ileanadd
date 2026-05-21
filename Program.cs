@@ -1,6 +1,6 @@
 ﻿// Lab 01
 // WorkWithIntegers();
-OrderPrecedence() ;
+// OrderPrecedence() ;
 
 void WorkWithIntegers()
 {
@@ -58,3 +58,12 @@ void OrderPrecedence ()
     int what = max + 3;
     Console.WriteLine($"An example of overflow: {what}");
 }
+
+//
+
+double a = 5;
+double b = 4;
+double c = 2;
+double d = (a + b) / c;
+Console.WriteLine(d);
+
